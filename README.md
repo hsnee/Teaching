@@ -7,7 +7,7 @@
 3. resources that I aim to use to improve
 4. complete list of personal documents and excerpts from courses that I taught/TAed.
 
-Most of these are password protected. Most of those that are not are either work-in-progress or resources available publicly at the Eberly Center's website (http://eberly.cmu.edu), but if for some reason you would like access let me know.
+Some of these are password protected. Some of those that are not are either work-in-progress or resources available publicly at the Eberly Center's website (http://eberly.cmu.edu), but if for some reason you would like access let me know.
 
 ## Near-Future Additions:
 - [ ] 33-121 F16 End-of-Term evals from smartevals by Mid-Jan 2017.
