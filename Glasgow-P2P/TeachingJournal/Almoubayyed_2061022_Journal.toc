@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Physics 1 Workshop}{3}{section.1}
+\contentsline {paragraph}{}{3}{section*.2}
+\contentsline {section}{\numberline {2}Physics 2 Tutorial}{4}{section.2}
+\contentsline {paragraph}{}{4}{section*.3}
+\contentsline {paragraph}{}{4}{section*.4}
+\contentsline {paragraph}{}{4}{section*.5}
+\contentsline {section}{\numberline {3}Physics 1 Tutorial x2}{5}{section.3}
+\contentsline {paragraph}{}{5}{section*.6}
+\contentsline {paragraph}{}{5}{section*.7}
+\contentsline {section}{\numberline {4}Physics 1 DropIn}{6}{section.4}
+\contentsline {paragraph}{}{6}{section*.8}
+\contentsline {section}{\numberline {5}Physics 1 Workshop}{7}{section.5}
+\contentsline {paragraph}{}{7}{section*.9}
+\contentsline {paragraph}{}{7}{section*.10}
+\contentsline {section}{\numberline {6}Physics 2 Tutorial}{8}{section.6}
+\contentsline {paragraph}{}{8}{section*.11}
+\contentsline {paragraph}{}{8}{section*.12}
+\contentsline {paragraph}{}{8}{section*.13}
+\contentsline {section}{\numberline {7}Physics 1 Tutorial}{9}{section.7}
+\contentsline {paragraph}{}{9}{section*.14}
+\contentsline {paragraph}{}{9}{section*.15}
+\contentsline {section}{\numberline {8}Physics 2 Tutorial}{10}{section.8}
+\contentsline {paragraph}{}{10}{section*.16}
+\contentsline {section}{\numberline {9}Physics 1 Tutorial}{11}{section.9}
+\contentsline {paragraph}{}{11}{section*.17}
+\contentsline {paragraph}{}{11}{section*.18}
+\contentsline {section}{\numberline {10}Physics 1 Workshop}{12}{section.10}
+\contentsline {paragraph}{}{12}{section*.19}
