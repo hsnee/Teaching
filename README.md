@@ -16,7 +16,7 @@ Some of these are password protected. Some of those that are not are either work
 
 ### S17 Goals
 - [ ] Another teaching observation
-- [ ] Microteaching workshop
+- [x] Microteaching workshop
 - [ ] 2-3 seminars
 - [ ] Finish statement of teaching philosophy
 - [ ] FFP Syllabus review? 
